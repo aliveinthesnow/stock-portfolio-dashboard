@@ -1,0 +1,9 @@
+Libraries to be imported -
+requests
+beautifulsoup or beautifulsoup4
+matplotlib
+yfinance
+tkinter (in case it was not installed correctly during python installation)
+
+For further details, refer to the report.
+
